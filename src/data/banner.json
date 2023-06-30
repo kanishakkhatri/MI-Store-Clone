@@ -1,0 +1,64 @@
+{
+    "logo": "https://i01.appmifile.com/webfile/globalimg/pandora/mi-logo.svg",
+    "banner":{
+        "start":[
+            "https://i02.appmifile.com/242_operator_in/09/09/2022/807f12b6fe0b17875da0a0fe11f988a8.jpg",
+            "https://i02.appmifile.com/150_operator_in/11/09/2022/92f5a98e2895f18f3a03ace1113bbca7.png", 
+            "https://i02.appmifile.com/816_operator_in/10/09/2022/d25d144a239f57879a21d2b616d724e3.jpg",
+            "https://i02.appmifile.com/392_operator_in/10/09/2022/625f66a10ff7c922205852b4ddf8ef10.jpg",
+            "https://i02.appmifile.com/502_operator_in/10/09/2022/c148eff42745bf039cab6dbf57b1df0b.jpg",
+            "https://i02.appmifile.com/580_operator_in/07/09/2022/1450dd99df1674e6294f0cefcdf170dd.gif",
+            "https://i02.appmifile.com/874_operator_in/10/09/2022/d96c555939a1116fb9db6009080a8003.jpg",
+            "https://i02.appmifile.com/231_operator_in/11/09/2022/bac1a14cf41fc56d1630645ca0c91f96.png"
+        ],
+        "end":[
+            "https://i02.appmifile.com/500_operator_in/23/02/2022/7dd77194a09db35f46aa82541d30a6f2.jpg",
+            "https://i02.appmifile.com/794_operator_in/23/02/2022/29f71b53b9eeba2c95f4ca2ca39b48f8.jpg",
+            "https://i02.appmifile.com/154_operator_in/23/02/2022/6402f385dba2e95d1d5a9d250cbf7c8d.jpg",
+            "https://i02.appmifile.com/395_operator_in/01/02/2022/89c7d2292f1bafd3b403439df9bd874f.jpg",
+            "https://i02.appmifile.com/8_operator_in/01/02/2022/e9853b271494b6f3e9d73ff0cbd65aa6.jpg",
+            "https://i02.appmifile.com/842_operator_in/01/02/2022/1353c99ab0e8da2ce9f620b5819995c8.jpg",
+            "https://i02.appmifile.com/57_operator_in/01/02/2022/eb24c958c37f58076921f5b94637a4d3.jpg",
+            "https://i02.appmifile.com/629_operator_in/01/02/2022/50f678d4f9eab8235ecc51ca730e9eac.jpg",
+            "https://i02.appmifile.com/82_operator_in/01/02/2022/43ddb357e5451d4285810e1825af1fbd.jpg",
+            "https://i02.appmifile.com/971_operator_in/05/10/2021/e979ce79722b581c8f2c7c37b607fff6.jpg",
+            "https://i02.appmifile.com/538_operator_in/05/10/2021/615e3e9879971ec3572956aa1ebb0887.jpg",
+            "https://i02.appmifile.com/432_operator_in/05/10/2021/d1d5296d7f69faf2e38fef3e81c3b477.jpg",
+            "https://i02.appmifile.com/766_operator_in/05/10/2021/4ab870b6c1049f344eccc050290486dd.jpg",
+            "https://i02.appmifile.com/111_operator_in/30/07/2021/38f74d81d8c5ba9b2be95ff81af86edf.jpg",
+            "https://i01.appmifile.com/webfile/globalimg/in/cms/97E65ECC-E105-9A20-6BD7-8A3235104C57.jpg"
+        ]
+    },
+    "offer": [
+        {
+            "url": "https://www.mi.com/in/product/redmi-11-prime-5g/?notify=1",
+            "image": "https://i02.appmifile.com/164_operator_in/09/09/2022/f22d149294adffba49a85578896b3ae5.jpg?width=398&height=230"
+        },
+        {
+            "url": "https://in.event.mi.com/in/diwali-with-mi-coming-soon?notfiy=1",
+            "image": "https://i02.appmifile.com/415_operator_in/10/09/2022/5e1ae1ebf48070e1e98b13b04cb4a91c.gif?width=398&height=230"
+        },
+        {
+            "url": "https://www.mi.com/in/product/redmi-a1/?notify=1",
+            "image": "https://i02.appmifile.com/292_operator_in/09/09/2022/6be47d988788fe81f7d9d1b7ec08299f.jpg?width=398&height=230"
+        }
+    ],
+    "starProduct": [
+        {
+            "url": "https://www.mi.com/in/xiaomi-12-pro-5g",
+            "image": "https://i02.appmifile.com/353_operator_in/17/05/2022/b920ec46e9322a9e85e4c2b648d3eedb.jpg?width=612&height=612"
+        },
+        {
+            "url": "https://www.mi.com/in/buy/product/mi-notebook-pro",
+            "image": "https://i02.appmifile.com/955_operator_in/11/07/2022/c4237dc3ff900106f0f9be5b8519f636.jpg?width=612&height=612"
+        },
+        {
+            "url": "https://in.event.mi.com/in/xiaomi-11i-series-5g-2022",
+            "image": "https://i02.appmifile.com/90_operator_in/11/03/2022/9b1ab6de9e17724d9f1fcde70dac3b4c.jpg?width=612&height=612"
+        },
+        {
+            "url": "https://www.mi.com/in/product/xiaomi-oled-vision-tv",
+            "image": "https://i02.appmifile.com/814_operator_in/28/06/2022/f9cdd947ff7d4f4704729801efc92568.jpg?width=612&height=612"
+        }
+    ]
+}
